@@ -1,0 +1,51 @@
+body{
+    font-weight: bold;
+    background-color: black;
+}
+.home{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.home h1{
+    color: white;
+    text-align: center;
+    
+}
+.home .card{
+    background-color: rgb(15, 188, 188);
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+.home .card .card-body{
+    background-color: rgb(5, 90, 90);
+}
+.home .card .btn{
+    background-color: rgb(15, 188, 188);
+    color: white;
+    border-color: none;
+    font-weight: bold;
+}
+.home .form .btn{
+    background-color: rgb(15, 188, 188);
+    color: white;
+    border-color: none;
+    font-weight: bold;
+    padding: 7px 22px;
+}
+.home .card .btn-login{
+    background-color: rgb(15, 188, 188);
+    color: white;
+    border-color: none;
+    font-weight: bold;
+    padding: 7px 25px;
+}
+.home .center{
+    margin-top: 50px;
+}
+
+.home .card-body .form-group label{
+    font-size: 20px;
+    padding: 10px 0;
+}
